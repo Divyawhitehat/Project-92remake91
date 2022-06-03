@@ -1,0 +1,9 @@
+ body
+ {
+     background-color: rgb(255, 10, 177);
+     margin-right : 300px;
+ }
+input
+{
+    max-width: 700px ;
+}
